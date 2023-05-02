@@ -1,2 +1,2 @@
 # heartofatower
-for the fridge
+Real time animation experiments together with The Fridge in Brussels
